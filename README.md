@@ -92,4 +92,4 @@ Open your browser at http://localhost:5173
 
 **⭐ Support / Follow Me**
 
-If you like my work, give a ⭐ on this repo and follow me for updates!
+If you like my work, give a ⭐ on this repo and follow me for updates
