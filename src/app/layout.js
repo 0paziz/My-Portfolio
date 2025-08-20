@@ -2,9 +2,9 @@
 import './globals.css'
 
 export const metadata = { 
-  title: "Abdiaziz Jama | Full-Stack Developer Portfolio",
+  title: "Abdiaziz Jama | React Frotend Developer Portfolio",
   description:
-    "Portfolio of Abdiaziz Jama – Full-Stack Developer and Designer. Showcasing projects built with Next.js, React, Tailwind CSS, and modern web technologies.",
+    "Portfolio of Abdiaziz Jama – React Frotend Developer and Designer. Showcasing projects built with Next.js, React, Tailwind CSS, and modern web technologies.",
   keywords: [
     "Abdiaziz Jama",
     "Full-Stack Developer",
@@ -17,7 +17,7 @@ export const metadata = {
   ],
   authors: [{ name: "Abdiaziz Jama" }],
   openGraph: {
-    title: "Abdiaziz Jama | Full-Stack Developer Portfolio",
+    title: "Abdiaziz Jama | React Frotend Developer Portfolio",
     description:
       "Explore Abdiaziz Jama’s portfolio – modern web apps, UI/UX projects, and full-stack development using Next.js, React, and Tailwind CSS.",
     url: "https://yourdomain.com",
@@ -35,7 +35,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Abdiaziz Jama | Full-Stack Developer Portfolio",
+    title: "Abdiaziz Jama | React Frotend Developer Portfolio",
     description:
       "Showcasing projects and skills in Next.js, React, Tailwind CSS, and modern web development.",
     images: ["/images/og-image.png"],
@@ -44,7 +44,7 @@ export const metadata = {
   // LinkedIn relies on Open Graph, so no separate LinkedIn property is needed,
   // but you can explicitly add them as meta tags in your head if required:
   linkedin: {
-    title: "Abdiaziz Jama | Full-Stack Developer Portfolio",
+    title: "Abdiaziz Jama | React Frontend Developer Portfolio",
     description:
       "Showcasing projects and skills in Next.js, React, Tailwind CSS, and modern web development.",
     image: "/images/og-image.png",
