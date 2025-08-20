@@ -16,9 +16,9 @@ export default function About() {
         {/* Left: Profile Image */}
         <div className="w-full md:w-5/12 flex justify-center md:justify-end">
           <img
-            src="/images/aziz.png"
+            src="/images/aziz1.png"
             alt="Profile"
-            className="bg-gray-400 dark:bg-gray-700 hover:bg-blue-100 dark:hover:bg-blue-900 w-72 h-72 md:w-80 md:h-80 lg:w-96 lg:h-96 object-cover rounded-lg shadow-xl transition-transform duration-300"
+            className="bg-gray-100 dark:bg-gray-900 hover:bg-gray-100 dark:hover:bg-gray-900 w-72 h-72 md:w-80 md:h-80 lg:w-80 lg:h-96 object-cover rounded-lg shadow-xl transition-transform duration-300"
           />
         </div>
 
