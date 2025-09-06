@@ -61,7 +61,7 @@ export default function Footer() {
                 <img src="./images/socials/insta-ico.png" alt="Instagram" className="w-5 h-5" />
               </a>
               <a
-                href="https://www.linkedin.com/in/abdiaziz-omar-876b06256/"
+                href="https://www.linkedin.com/in/abdiaziz-jama-876b06256/"
                 className="w-10 h-10 rounded-full bg-gray-400 dark:bg-gray-600 flex items-center justify-center hover:shadow-lg hover:bg-blue-500 transition-all duration-300"
               >
                 <img src="./images/socials/linkedin-ico.png" alt="LinkedIn" className="w-5 h-5" />
