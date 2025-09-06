@@ -51,7 +51,7 @@ export default function Hero() {
               <img src="/images/socials/insta-ico.png" alt="Instagram" className="w-8 bg-gray-900 rounded-xl p-1 dark:bg-gray-950 hover:bg-gray-500" />
             </a>
             <a
-              href="https://www.linkedin.com/in/abdiaziz-omar-876b06256/"
+              href="https://www.linkedin.com/in/abdiaziz-jama-876b06256/"
               target="_blank"
             >
               <img src="/images/socials/linkedin-ico.png" alt="LinkedIn" className="w-8 bg-gray-900 rounded-xl p-1 dark:bg-gray-950 hover:bg-gray-500" />
